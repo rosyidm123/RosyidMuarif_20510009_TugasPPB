@@ -9,8 +9,8 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/STIMATA"
-        android:scaleType="centerCrop"/>
+        android:src="@drawable/futsal"
+        android:scaleType="centerCrop" />
     <EditText
         android:id="@+id/nama_edit_text"
         android:layout_width="match_parent"

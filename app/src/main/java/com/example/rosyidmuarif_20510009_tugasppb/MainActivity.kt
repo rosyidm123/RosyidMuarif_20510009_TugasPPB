@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    fun submit_btn(view: View) {
+    fun submit_btn(View: View) {
         val namaEditText = findViewById<EditText>(R.id.nama_edit_text)
         val nama = namaEditText.text.toString()
 
